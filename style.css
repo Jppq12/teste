@@ -106,7 +106,7 @@ abbr.ag {
 
 img.ag {
     width: 100%;
-    max-width: 500px;
+    max-width: 400px;
     max-height: 450px;
     display: block;
     margin: auto;
@@ -121,7 +121,7 @@ main > h2 {
 
 img.ic {
     width: 100%;
-    max-width: 500px;
+    max-width: 400px;
     max-height: 450px;
     display: block;
     margin: auto
