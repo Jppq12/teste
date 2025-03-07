@@ -105,7 +105,6 @@ abbr.ag {
 }
 
 img.ag {
-    width: 100%;
     max-width: 400px;
     max-height: 450px;
     display: block;
@@ -120,7 +119,6 @@ main > h2 {
 }
 
 img.ic {
-    width: 100%;
     max-width: 400px;
     max-height: 450px;
     display: block;
